@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/certificados/precache-manifest.f1db582f66389ddae9e96557281a23fc.js"
+  "/certificados/precache-manifest.3863ed00971d1317cb02a4ff005b4183.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "Overcron"});
+workbox.core.setCacheNameDetails({prefix: "Cursenca"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
