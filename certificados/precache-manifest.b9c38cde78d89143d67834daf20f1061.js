@@ -4,8 +4,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/certificados/css/about.fb7b6433.css"
   },
   {
-    "revision": "666c3db44d3eee48e01b",
+    "revision": "c8ecc3357bd7ce5e501c",
     "url": "/certificados/css/app.dd6bcd70.css"
+  },
+  {
+    "revision": "3be71836014e81938c12082e2cb0dd77",
+    "url": "/certificados/img/aapp.3be71836.jpg"
+  },
+  {
+    "revision": "bb766dd43420233c817de817ca14b9f2",
+    "url": "/certificados/img/bai.bb766dd4.jpg"
   },
   {
     "revision": "0b8635f00c8f99957b61b6dc85b76336",
@@ -24,11 +32,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/certificados/img/powerpoint.273a5dea.svg"
   },
   {
-    "revision": "d772a001dbe9513eeb03eb0a45aca1ca",
-    "url": "/certificados/img/pppp.d772a001.png"
+    "revision": "d18b9617cee5c2840cb699ff6ce8be76",
+    "url": "/certificados/img/pppp.d18b9617.png"
   },
   {
-    "revision": "57e820a8799dfa33634b47ec4d52e15a",
+    "revision": "a4bf88ca3ce4bd7d133988ac99dfc7ad",
+    "url": "/certificados/img/tcpi.a4bf88ca.jpg"
+  },
+  {
+    "revision": "a7295c65fbef8ea9b11759c33b1036a7",
+    "url": "/certificados/img/tdce.a7295c65.jpg"
+  },
+  {
+    "revision": "ff69b65f4a006f57cef61d8d704866d1",
     "url": "/certificados/index.html"
   },
   {
@@ -36,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/certificados/js/about.81896cfa.js"
   },
   {
-    "revision": "666c3db44d3eee48e01b",
-    "url": "/certificados/js/app.7ef2692f.js"
+    "revision": "c8ecc3357bd7ce5e501c",
+    "url": "/certificados/js/app.a0669830.js"
   },
   {
     "revision": "68ff3d49e95ef6065dc5",
