@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/certificados/precache-manifest.fa6c793b96fac48565f30b929f761de7.js"
+  "/certificados/precache-manifest.3581dd272da0afd20bdfeb052a4f3545.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Cursenca"});
